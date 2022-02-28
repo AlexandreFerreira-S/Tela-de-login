@@ -1,0 +1,68 @@
+*{
+    overflow-x: hidden;
+    overflow-y: hidden;
+}
+#fundo{
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    image-rendering: auto;
+}
+
+body{
+    background-color: black;
+    margin: 10%px;
+}
+#box-login{
+    position: absolute;
+    margin: 20%;
+    background-color: rgb(90, 90, 90);
+    width: 300px;
+    height: 300px;
+    margin-left: 37%;
+    margin-top: 11%;
+    opacity: 88%;
+    border-radius: 20px;
+}
+#input{
+    margin-left: 5%; 
+}
+
+.login1{
+    margin-bottom: 3px;
+    width: 80%;
+    margin-left: 10px;
+    border-radius: 20px
+}
+h1{
+    margin-left: 25px;
+    font-family: sans-serif;
+    size: 20px;
+}
+#login-continuos{
+    font-size: 10px;
+    margin-left: 38px;
+}
+#checkbox{
+    width: 12px;
+    margin-left: 24px;
+    margin-top: -22px;
+    position: absolute;
+}
+#botao1{
+    width: 80%;
+    margin-left: 23px;
+    margin-top: 4%;
+    color: black;
+    background-color: rgba(237, 146, 245, 0.726);
+    border-radius: 4px
+}
+.login2{
+    width: 80%;
+    margin-left: 10px;
+    border-radius: 20px
+}
+#rodape{
+    font-size: 15px;
+    margin-left: 25px;
+}
